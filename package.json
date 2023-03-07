@@ -34,7 +34,7 @@
     "react-dom": "^16.8.6",
     "react-helmet": "^6.1.0",
     "react-scripts": "^5.0.0",
-    "react-typography": "^0.16.19",
+    "react-typography": "^0.16.23",
     "typography": "^0.16.19",
     "typography-plugin-code": "^0.16.19",
     "typography-theme-github": "^0.16.19"
