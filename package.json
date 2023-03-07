@@ -35,7 +35,7 @@
     "react-helmet": "^6.1.0",
     "react-scripts": "^5.0.0",
     "react-typography": "^0.16.19",
-    "typography": "^0.16.19",
+    "typography": "^0.16.21",
     "typography-plugin-code": "^0.16.19",
     "typography-theme-github": "^0.16.19"
   },
